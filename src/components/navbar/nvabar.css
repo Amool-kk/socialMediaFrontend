@@ -1,0 +1,15 @@
+
+
+.ReactModal__Overlay{
+    background-color: #212529 !important;;
+    opacity: 0.6 !important;
+    z-index: 9;
+}
+
+.ReactModal__Content{
+    top: 50%!important;
+    left: 50%!important;
+    transform: translate(-50%, -50%);
+    background-color: white!important;
+    z-index: 999;
+}
